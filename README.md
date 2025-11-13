@@ -61,4 +61,3 @@ python3 signer.py --c <hostname> --m "message"
 
 - Python 3.x
 - PyCryptodome (`pip install pycryptodome`)
-
